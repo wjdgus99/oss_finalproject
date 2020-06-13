@@ -1,7 +1,14 @@
 # oss_finalproject
 
-#making a website that can be used in managing dormitory services.
+# making a website that can be used to reserve library seats.
 
-1. automatical calling of roll.
-2. checking noise after 11pm.
-3. checking individual's penalty points
+This is reservation service for handong library seat.
+You can DOWNLOAD the file and use the web service in php
+
+1. Use php + mysql
+2. input name and student number
+3. get database with mysql
+4. choose the seat and reservation time
+5. show the result
+
+21800568@handong.edu
